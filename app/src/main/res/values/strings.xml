@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="main_text">Welcome!</string>
+    <string name="main_login">Login</string>
+    <string name="main_register">Register</string>
+
+    <string name="register_text">Create an account!</string>
+    <string name="register_email">Email address</string>
+    <string name="register_pass">Password</string>
+    <string name="register_first_name">First Name</string>
+    <string name="register_last_name">Last Name</string>
+</resources>
